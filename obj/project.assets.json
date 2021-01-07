@@ -1,0 +1,58 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v5.0": {},
+    ".NETFramework,Version=v5.0/win7-x86": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v5.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\Georges\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Georges\\source\\repos\\Splice\\Splice.csproj",
+      "projectName": "Splice",
+      "projectPath": "C:\\Users\\Georges\\source\\repos\\Splice\\Splice.csproj",
+      "packagesPath": "C:\\Users\\Georges\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Georges\\source\\repos\\Splice\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Georges\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Users\\Georges\\AppData\\Roaming\\Cosmos User Kit\\packages\\": {},
+        "C:\\Users\\Georges\\Downloads": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net50": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net50": {
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "win7-x86": {
+        "#import": []
+      }
+    }
+  }
+}
